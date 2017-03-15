@@ -6,7 +6,7 @@ Build from Dockerfile or download it directly from dockerhub (lobobinario/firmad
 
 USE: 
 
-Run the image use --privileged option (docker run -it --privileged ...).
+Run the image using --privileged option (docker run -it --privileged ...).
 
 Expose ports and create network routes on the host as needed in order to establish connection with the emulated firmware.
 
